@@ -4,3 +4,4 @@ ASUS
 Lenovo
 ASUS
 Thinkpad
+software testing, selenium,java, api, python, mongodatabase, pandas, numpy
