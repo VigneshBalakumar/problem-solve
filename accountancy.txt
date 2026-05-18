@@ -1,0 +1,39 @@
+Accountancy encompasses a wide range of topics spanning financial, cost, management, audit, and taxation subjects essential for understanding and performing accounting functions effectively.
+Foundational Concepts
+Accounting Principles and Concepts (e.g., accrual, consistency, prudence, going concern, conservatism)
+Accounting Equation and Double-Entry System
+Types of Accounts and Rules of Debit and Credit
+Journal, Ledger, and Trial Balance Preparation
+Accounting Cycle (from transactions to financial statements)
+Financial Accounting
+Final Accounts Preparation (Trading Account, Profit & Loss Account, Balance Sheet)
+Adjustments in Accounts (Depreciation, Accrued Expenses, Prepaid Expenses, Outstanding Incomes)
+Accounting for Bills of Exchange
+Accounting for Partnerships (Admission, Retirement, Death of a Partner)
+Company Accounts (Share Capital, Debentures, Issue & Redemption, Dividends)
+Financial Statements Analysis (Ratio Analysis, Cash Flow Statement, Fund Flow Statement)
+Accounting Standards (AS/IND AS) applicable in India
+Cost Accounting
+Introduction to Cost Concepts (Cost, Cost Centre, Cost Unit, Direct & Indirect Costs)
+Methods of Costing (Job Costing, Process Costing, Contract Costing, Operating Costing)
+Cost Sheet Preparation and Cost Control Techniques
+Marginal Costing and Break-Even Analysis
+Standard Costing and Variance Analysis
+Management Accounting
+Budgeting and Budgetary Control (Sales, Production, Cash, Flexible Budgets)
+Performance Measurement and Reporting (Key Performance Indicators, Responsibility Accounting)
+Decision-Making Tools (CVP Analysis, Make or Buy Decisions, Pricing Decisions)
+Auditing and Assurance
+Introduction to Auditing (Objectives, Types, Principles, Audit Program)
+Internal Control Systems (Control Procedures, Risk Assessment)
+Vouching and Verification of Assets & Liabilities
+Audit Reports and Opinions
+Taxation (India-specific)
+Income Tax Accounting (Computation of Income, Tax Liability, Deductions, TDS)
+Goods and Services Tax (GST) Accounting (Input Tax Credit, GST Returns, Compliance)
+Corporate Taxation and Dividend Distribution Tax
+Special Topics
+Accounting for Non-Profit Organizations (Fund Accounting)
+Accounting for Foreign Currency Transactions (IFRS/IND AS Compliance)
+Computerized Accounting Systems (ERP Accounting, Use of Tally, QuickBooks, SAP)
+Ethics in Accounting and Corporate Governance
